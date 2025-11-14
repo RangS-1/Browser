@@ -11,7 +11,7 @@ Inspirations: <a href="https://www.youtube.com/@ProgrammingHero">Programming Her
 
 -------------
 
-<p align="right">✨Check My Profile: <a href="https://github.com/RangS-1"><i>RangS! 🎉</i></a></p>
+<p align="center">✨Check My Profile: <a href="https://github.com/RangS-1"><i>RangS! 🎉</i></a></p>
 
 -------------
 
@@ -28,3 +28,6 @@ You can download RangSpreter by cloning the [Git Repo](https://github.com/RangS-
 
 ~/browser ❯ python3 browser.py
 ```
+-------------
+## Disclaimer
+This project is not completed. yet!
