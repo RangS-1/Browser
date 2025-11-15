@@ -1,6 +1,5 @@
-# Browser
-This is Basic browser with PyQt5WebEngine. I'm learn about PyQt5 and it's make me feel dizzy. i'm very bad at designing even that PyQt5 have a Qt Style Sheet like CSS -_-'.
-When this project done, i hope it's lightweight.
+# Eon Browser V.0.3
+This is Eon Browser, it was maded with PyQt5WebEngine. Eon Browser is a very lightweight browser, even for your old pc (if you have, and maybe only me that have an old pc -_-'). I made this browser to google dorking, why? because there's no history, no cookies, no web account. it's incognito than incognito itself.
 
 - compatible with python3
 - compatible with old pc
@@ -17,7 +16,7 @@ Inspirations: <a href="https://www.youtube.com/@ProgrammingHero">Programming Her
 
 ## Windows Installation
 
-You can download RangSpreter by cloning the [Git Repo](https://github.com/RangS-1/browser.git) and simply installing its requirements:
+You can download Eon Browser by cloning the [Git Repo](https://github.com/RangS-1/browser.git) and simply installing its requirements:
 
 ```
 ~ ❯ git clone https://github.com/RangS-1/browser.git
@@ -30,4 +29,4 @@ You can download RangSpreter by cloning the [Git Repo](https://github.com/RangS-
 ```
 -------------
 ## Disclaimer
-This project is not completed. yet!
+This project is not completed. yet! The main Goals is make it compatible to Linux or even Mac OS.
